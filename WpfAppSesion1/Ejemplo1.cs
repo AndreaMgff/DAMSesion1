@@ -12,7 +12,14 @@ namespace WpfAppSesion1
 /// </summary>
     internal class Ejemplo1
     {
+        /// <summary>
+        /// Es el numero
+        /// </summary>
         public int numero;
+        /// <summary>
+        /// Es un texto con cambios
+        /// mas cambios
+        /// </summary>
         public string texto;
         /// <summary>
         /// Este constructor iguala numero a n
